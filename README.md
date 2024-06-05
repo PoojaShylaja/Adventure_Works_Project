@@ -1,4 +1,9 @@
-# Adventure_Works_Project
+
+![aw](https://github.com/PoojaShylaja/Adventure_Works_Project/assets/101803358/2ed37f8c-b28b-4a98-83dd-c960cd358ba8)  
+
+# Adventure_Works_Project   
+
+[Live Dashboard](https://app.powerbi.com/groups/me/reports/33604684-1aa3-48fe-8425-2ad2a47e3d28/ReportSection?experience=power-bi)
 
 ## Scenario
 Here, as a business intelligence analyst by Adventure Works,a fictional global manufacturing companythat produces cycling equipment and accessories. The Management team needs to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers. We have Raw .csv files which contain returns, transactions, products, customers, and sales territories.
